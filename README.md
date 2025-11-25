@@ -23,14 +23,21 @@ My personal respository
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png" width="130" alt="Google ADK Builder's Badge"/>
   </a>
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png">
-    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png" width="130" alt="Badge 2"/>
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png" width="130" alt="GenAI Sales"/>
   </a>
-  <a href="BADGE_CERTIFICATE_LINK_3">
-    <img src="BADGE_IMAGE_LINK_3" width="130" alt="Badge 3"/>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/watsonx-ai-technical-sales-intermediate.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/watsonx-ai-technical-sales-intermediate.png" width="130" alt="Watsonx AI Tech Sales"//>
   </a>
-  <a href="BADGE_CERTIFICATE_LINK_4">
-    <img src="BADGE_IMAGE_LINK_4" width="130" alt="Badge 4"/>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png" width="130" alt="Infra Services Sales"/>
   </a>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png" width="130" alt="Design Thinking Practitioner"/>
+  </a>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png" width="130" alt="Cognitive Practitioner"/>
+  </a>
+  
 </p>
 
 ---
@@ -41,7 +48,7 @@ My personal respository
 |--------|------------|-------------|
 | **Cloud API** | ADK, GCP, Python, CLI, Agentic AI, MCP | Build  and tested multi-agent systems with ADK agents |
 | **Vertex AI Model** | Vertex AI, ML, GCP | Built and tested ML classification model |
-| **Telegram Multi-lingual Chatbot** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs |
+| **Telegram Multi-lingual Agent** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs | Build and tested Telegram Translator Chatbot |
 | **Predictive Models** | Knime Analytics, MS Power BI, MS Power Query, Python, OpenAI | Build and tested predictive multi-models |
 
 ---
