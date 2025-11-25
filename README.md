@@ -1,2 +1,71 @@
 # PP_H
 My personal respository
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm PP_H</h1>
+<h3 align="center">🌐 Cloud & AI, Managed Infrastructure Enthusiast | Lifelong Learner</h3>
+
+---
+
+## 🧠 About Me  
+
+- 🎓 Strong interest in **Cloud / AI Transformation, Infrastructure, and Strategic MIS Partnerships**
+- 💡 Passionate about **automation, cloud & agentic AI LLMs**
+- 📫 Reach me at: **cyphrb33.ai@gmail.com**
+
+---
+
+## 🏅 Google Cloud Skill Badges
+
+### ✔ Completed Skill Badges
+
+<p align="center">
+  <a href="BADGE_CERTIFICATE_LINK_1">
+    <img src="BADGE_IMAGE_LINK_1" width="130" alt="Badge 1"/>
+  </a>
+  <a href="BADGE_CERTIFICATE_LINK_2">
+    <img src="BADGE_IMAGE_LINK_2" width="130" alt="Badge 2"/>
+  </a>
+  <a href="BADGE_CERTIFICATE_LINK_3">
+    <img src="BADGE_IMAGE_LINK_3" width="130" alt="Badge 3"/>
+  </a>
+  <a href="BADGE_CERTIFICATE_LINK_4">
+    <img src="BADGE_IMAGE_LINK_4" width="130" alt="Badge 4"/>
+  </a>
+</p>
+
+---
+
+## 📌 Cloud, Data and Agentic AI LLM Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Cloud Run API** | GCP, Cloud Run, Python, multi-agent systems with ADK agents |
+| **Vertex AI Model** | Vertex AI, ML | Built and tested ML classification model |
+| **Telegram Multi-lingual Chatbot** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs |
+| **Predictive Models** | Knime, MS Power BI, MS Power Query, Python, OpenAI |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+  <a href="mailto:cyphrb33.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
