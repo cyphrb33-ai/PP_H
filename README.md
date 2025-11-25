@@ -51,11 +51,11 @@ My personal respository
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Cloud API** | ADK, GCP, Python, CLI, Agentic AI, MCP | Build  and tested multi-agent systems with ADK agents |
-| **Vertex AI Model** | Vertex AI, ML, GCP | Built and tested ML classification model |
-| **Telegram Multi-lingual Agent** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs | Build and tested Telegram Translator Chatbot |
-| **Predictive Models** | Knime Analytics, MS Power BI, MS Power Query, Python, OpenAI | Build and tested predictive multi-models |
-
+| **Cloud API** | ADK, GCP, Python, CLI, Agentic AI, MCP | Build  and tested multi-agent systems with ADK agents. |
+| **Vertex AI Model** | Vertex AI, ML, GCP | Built and tested ML classification model. |
+| **Telegram Multi-lingual Agent** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs | Build and tested Telegram Translator Chatbot. |
+| **Predictive Modelling** | Knime Analytics, MS Power BI, MS Power Query, Panda Dataframes, Python, OpenAI | Build and tested predictive multi-models. |
+| **Outlook Automation** | Power Automate, Sharepoint, MS List, Outlook | Build and tested email and approval workflow automation. |
 ---
 
 ## 📊 GitHub Stats
