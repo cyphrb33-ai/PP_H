@@ -14,7 +14,7 @@ My personal respository
 
 ---
 
-## 🏅 Tech Skill Badges
+## 🏅 Technical Practitioner and Sales Skill Badges
 
 ### ✔ Completed Skill Badges
 
@@ -22,17 +22,17 @@ My personal respository
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png" width="130" alt="Google ADK Builder's Badge"/>
   </a>
+   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png" width="130" alt="Infra Services Sales"/>
+  </a>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png" width="130" alt="Design Thinking Practitioner"/>
+  </a>
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png" width="130" alt="GenAI Sales"/>
   </a>
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/watsonx-ai-technical-sales-intermediate.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/watsonx-ai-technical-sales-intermediate.png" width="130" alt="Watsonx AI Tech Sales"//>
-  </a>
-  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png">
-    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png" width="130" alt="Infra Services Sales"/>
-  </a>
-  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png">
-    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png" width="130" alt="Design Thinking Practitioner"/>
   </a>
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png" width="130" alt="Cognitive Practitioner"/>
