@@ -19,10 +19,10 @@ My personal respository
 ### ✔ Completed Skill Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/801f0922-64b5-47b7-9f6c-f3eaf351e3b1/public_url">
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png" width="130" alt="Google ADK Builder's Badge"/>
   </a>
-  <a href="https://www.credly.com/badges/fb9f9569-804f-4334-a6a9-8f8e799b8ffd/public_url">
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/ibm-generative-ai-sales.png" width="130" alt="Badge 2"/>
   </a>
   <a href="BADGE_CERTIFICATE_LINK_3">
