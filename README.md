@@ -19,7 +19,7 @@ My personal respository
 ### ✔ Completed Skill Badges
 
 <p align="center">
-  <a href="[BADGE_CERTIFICATE_LINK_1](https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png)">
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png">
     <img src="BADGE_IMAGE_LINK_1" width="130" alt="Badge 1"/>
   </a>
   <a href="BADGE_CERTIFICATE_LINK_2">
