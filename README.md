@@ -54,7 +54,7 @@ My personal respository
 | **Cloud API** | ADK, GCP, Python, CLI, Agentic AI, MCP | Build  and tested multi-agent systems with ADK agents. |
 | **Vertex AI Model** | Vertex AI, ML, GCP | Built and tested ML classification model. |
 | **Telegram Multi-lingual Agent** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs | Build and tested Telegram Translator Chatbot. |
-| **Predictive Modelling** | Knime Analytics, MS Power BI, MS Power Query, Panda Dataframes, Python, OpenAI | Build and tested predictive multi-models. |
+| **Predictive Modelling** | Knime Analytics, MS Power BI, MS Power Query, Panda Dataframes, Python, Julius, OpenAI | Build and tested predictive multi-models. |
 | **Outlook Automation** | Power Automate, Sharepoint, MS List, Outlook | Build and tested email and approval workflow automation. |
 ---
 
