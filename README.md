@@ -37,7 +37,12 @@ My personal respository
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cognitive-practitioner.png" width="130" alt="Cognitive Practitioner"/>
   </a>
-  
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/fit-to-learn-data-analyst.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/fit-to-learn-data-analyst.png" width="130" alt="Data Analyst"/>
+  </a>
+  <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/fit-to-learn-cybersecurity-professional.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/fit-to-learn-cybersecurity-professional.png" width="130" alt="CyberSecurity"/>
+  </a>
 </p>
 
 ---
