@@ -63,7 +63,7 @@ My personal respository
   <a href="mailto:cyphrb33.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/cyphrb33-ai">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
