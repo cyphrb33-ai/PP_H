@@ -14,7 +14,7 @@ My personal respository
 
 ---
 
-## 🏅 Google Cloud Skill Badges
+## 🏅 Tech Skill Badges
 
 ### ✔ Completed Skill Badges
 
