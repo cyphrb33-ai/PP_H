@@ -22,7 +22,7 @@ My personal respository
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png" width="130" alt="Google ADK Builder's Badge"/>
   </a>
-  <a href="BADGE_CERTIFICATE_LINK_2">
+  <a href="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb9f9569-804f-4334-a6a9-8f8e799b8ffd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>">
     <img src="BADGE_IMAGE_LINK_2" width="130" alt="Badge 2"/>
   </a>
   <a href="BADGE_CERTIFICATE_LINK_3">
@@ -39,10 +39,10 @@ My personal respository
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Cloud Run API** | GCP, Cloud Run, Python, multi-agent systems with ADK agents |
-| **Vertex AI Model** | Vertex AI, ML | Built and tested ML classification model |
+| **Cloud API** | ADK, GCP, Python, CLI, Agentic AI, MCP | Build  and tested multi-agent systems with ADK agents |
+| **Vertex AI Model** | Vertex AI, ML, GCP | Built and tested ML classification model |
 | **Telegram Multi-lingual Chatbot** | HuggingFace, Make, Flowise, OpenAI and Google Gemini APIs |
-| **Predictive Models** | Knime, MS Power BI, MS Power Query, Python, OpenAI |
+| **Predictive Models** | Knime Analytics, MS Power BI, MS Power Query, Python, OpenAI | Build and tested predictive multi-models |
 
 ---
 
