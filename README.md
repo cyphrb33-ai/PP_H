@@ -58,7 +58,7 @@ My personal respository
 | **Outlook Automation** | Power Automate, Sharepoint, MS List, Outlook | Build and tested email and approval workflow automation. |
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://pp-h.vercel.app/api?username=cyphrb33-ai&show_icons=true&theme=tokyonight"/>
@@ -66,7 +66,7 @@ My personal respository
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=cyphrb33-ai&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
