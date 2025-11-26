@@ -61,7 +61,7 @@ My personal respository
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?cyphrb33-ai=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyphrb33-ai&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
