@@ -6,6 +6,13 @@ My personal respository
 
 ---
 
+git checkout -b media
+mkdir assets
+# store images in the assets folder
+git add .
+git commit -m "Add README images"
+git push origin media
+
 ## 🧠 About Me  
 
 - 🎓 Strong interest in **Cloud / AI Transformation, Infrastructure, and Strategic MIS Partnerships**
