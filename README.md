@@ -22,8 +22,8 @@ My personal respository
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/cloud-technical-series-adk-builder-s-badge.png" width="130" alt="Google ADK Builder's Badge"/>
   </a>
-   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png">
-    <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/infrastructure-services-selling-digital-transformation.png" width="130" alt="Infra Services Sales"/>
+   <a href="https://github.com/cyphrb33-ai/PP_H/blob/assets/infrastructure-services-selling-digital-transformation.png">
+    <img src="https://github.com/cyphrb33-ai/PP_H/blob/assets/infrastructure-services-selling-digital-transformation.png" width="130" alt="Infra Services Sales"/>
   </a>
   <a href="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png">
     <img src="https://github.com/cyphrb33-ai/PP_H/blob/main/enterprise-design-thinking-practitioner.png" width="130" alt="Design Thinking Practitioner"/>
