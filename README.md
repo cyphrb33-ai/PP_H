@@ -58,8 +58,8 @@ My personal respository
 | **Outlook Automation** | Power Automate, Sharepoint, MS List, Outlook | Build and tested email & approval workflow automation. |
 ---
 
-## 2026 Top Win Best Individual & Team Score Kaggle Leaderboard
-## NTU DSAI D2F Baseball MoneyBall Analytics
+## 2026 Top Win Rank 1st Individual & Team Score Kaggle Leaderboard
+# NTU DSAI D2F Baseball MoneyBall Analytics
 
 | **Predictive Analytics** | ML, Kaggle, Feature Engineering, Linear Regression, ElastiNet, Ridge, RandomForest, GradientBoost 
 
