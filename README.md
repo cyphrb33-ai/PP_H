@@ -59,8 +59,8 @@ My personal respository
 ---
 
 ## Top Win Best Score Kaggle Leaderboard - NTU DSAI D2F Baseball MoneyBall Analytics
-|--------|------------|-------------|
 | **Predictive Analytics** | ML, Kaggle, Feature Engineering, Linear Regression, ElastiNet, Ridge, RandomForest, GradientBoost | Top Win Kaggle Leaderboard - NTU DSAI BaseBall Moneball Analytics | 
+
 ---
 
 <!-- ## 📊 GitHub Stats
