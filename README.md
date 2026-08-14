@@ -67,6 +67,14 @@ My personal respository
 
 ---
 
+## 2026 Production Ready GCP Hosted Sales Analytics ELT Pipeline Dashboard
+# Art Sales Big Query dbt Analytics
+
+| **Big Query dbt Analytics** | VS Code, WSL Ubuntu, Python 3.11, Conda, GCP, Big Query, dbt, Looker Studio
+
+[ELT Dashboard - Art Sales Analytics](https://lookerstudio.google.com/reporting/ed13ddd8-bc45-4ed7-9e4e-0e0e9f6262f3)
+
+---
 <!-- ## 📊 GitHub Stats
 
 <p align="center">
